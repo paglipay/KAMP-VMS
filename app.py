@@ -7,6 +7,7 @@ print('213')
 print('213')
 
 print('bye bye bye')
-print('asdsadaasd')
+print('vs code server')
+print('vs code server')
 print('213')
 print('230')
